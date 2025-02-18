@@ -42,3 +42,5 @@ if __name__ =="__main__":
     # 打印结果
     print("Attention Weights.shape:\n", attn_weights.shape)
     print("Output.shape:\n", output.shape)
+    
+    #luoclab@gmail.com
